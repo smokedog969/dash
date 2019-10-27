@@ -1,0 +1,15 @@
+. {
+    background-color: grey;
+}
+
+.signInContainer {
+    background-color: #efefee;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signInContainer .column .header img {
+    width: 100px;
+}

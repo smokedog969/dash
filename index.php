@@ -1,3 +1,4 @@
+<?php require_once("includes/config.php"); ?>
 <!DOCTYPE html>
 <html>
     <head>
@@ -49,19 +50,19 @@
              <div class="main-overview">
                <div class="overviewcard">
                  <div class="overviewcard__icon">Overview</div>
-                 <div class="overviewcard__info">Card</div>
+                 <div class="overviewcard__info">Card 1</div>
                </div>
                <div class="overviewcard">
                  <div class="overviewcard__icon">Overview</div>
-                 <div class="overviewcard__info">Card</div>
+                 <div class="overviewcard__info">Card 2</div>
                </div>
                <div class="overviewcard">
                  <div class="overviewcard__icon">Overview</div>
-                 <div class="overviewcard__info">Card</div>
+                 <div class="overviewcard__info">Card 3</div>
                </div>
                <div class="overviewcard">
                  <div class="overviewcard__icon">Overview</div>
-                 <div class="overviewcard__info">Card</div>
+                 <div class="overviewcard__info">Card 4</div>
                </div>
              </div>
          
